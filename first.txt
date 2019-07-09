@@ -1,2 +1,3 @@
 Git is easy to learn
-It's not true.
+It's not true
+There is a conflict
